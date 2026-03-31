@@ -25,4 +25,4 @@ Cybersecurity Engineer focused on offensive security, detection, and risk-based 
 ## 📂 Featured Labs
 - clocky ()
   - 🔗 Walkthrough:([clocky](https://github.com/alainrulisa/cybersecurity-labs/tree/main/tryhackme/clocky-walkthrough))  
-  - 🌐 Lab: [TryHackMe Room]([clocky room](https://tryhackme.com/room/clocky))
+  - 🌐 Lab: ([clocky room](https://tryhackme.com/room/clocky))
