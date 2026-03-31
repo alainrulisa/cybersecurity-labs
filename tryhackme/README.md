@@ -23,5 +23,5 @@ Cybersecurity Engineer focused on offensive security, detection, and risk-based 
 
 
 ## 📂 Featured Labs
-- clocky (clocky-walkthrough.md)
+- clocky (cybersecurity-labs\tryhackme\clocky-walkthrough\clocky-walkthrough.md)
 - bandit surfer (link)
