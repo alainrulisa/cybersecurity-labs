@@ -197,7 +197,9 @@ i will let you find flag 6 on your own 🤣.
 
 Conclusion: the purpose of this room was to look at ways to compromise a linux webserver using different tools like hydra, hashcat, nmap and gobuster among others.
 
-there is also an interesting concept learn. which is "tokenization".
+there is also an interesting concept to learn. 
+
+which is "tokenization".
 
 
 
